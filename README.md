@@ -2,6 +2,7 @@
   <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="GIF">
 </p>
 
+
 <h1 align="center">Hi 👋, I'm Upeksha Sathsarani</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 <img align="right" alt="coding" width="400px" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
